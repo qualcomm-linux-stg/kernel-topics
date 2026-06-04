@@ -6,6 +6,7 @@
  */
 
 // This is a test comments to validate PR trigger
+// This is a test comments to validate PR-2 trigger
 
 #ifndef __MSM_DRV_H__
 #define __MSM_DRV_H__
