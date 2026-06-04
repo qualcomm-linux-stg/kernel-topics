@@ -5,6 +5,8 @@
  * Author: Rob Clark <robdclark@gmail.com>
  */
 
+// This is a test comments to validate PR trigger
+
 #ifndef __MSM_DRV_H__
 #define __MSM_DRV_H__
 
